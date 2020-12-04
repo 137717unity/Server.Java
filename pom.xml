@@ -54,7 +54,7 @@
         </contributor>
     </contributors>
     <properties>
-        <jenaVersion>3.13.1</jenaVersion>
+        <jenaVersion>3.17.0</jenaVersion>
         <jettyVersion>9.4.9.v20180320</jettyVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -77,7 +77,7 @@
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.5.10</version>
+            <version>4.5.13</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>
