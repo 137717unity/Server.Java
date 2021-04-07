@@ -54,7 +54,7 @@
         </contributor>
     </contributors>
     <properties>
-        <jenaVersion>3.13.1</jenaVersion>
+        <jenaVersion>4.0.0</jenaVersion>
         <jettyVersion>9.4.9.v20180320</jettyVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
