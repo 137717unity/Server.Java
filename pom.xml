@@ -54,7 +54,7 @@
         </contributor>
     </contributors>
     <properties>
-        <jenaVersion>3.13.1</jenaVersion>
+        <jenaVersion>5.5.0</jenaVersion>
         <jettyVersion>9.4.9.v20180320</jettyVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -108,7 +108,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.9</version>
+            <version>3.18.0</version>
             <type>jar</type>
         </dependency>
         <dependency>
